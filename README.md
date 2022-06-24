@@ -2,7 +2,8 @@
 Game involving two players and some die
 In Hog, two players alternate turns trying to be the first to end a turn with at least 100 total points. On each turn, the current player chooses some number of dice to roll, up to 10. That player's score for the turn is the sum of the dice outcomes. See detailed rules below
 
-To play, run in terminal:
+## To play  
+Run in terminal:
 ```
 python3 hog_gui.py
 ```
@@ -12,7 +13,7 @@ To play against computer automated strategy, run in terminal:
 python3 hog_gui.py -f
 ```
 
-Rules
+## Rules  
 To spice up the game, we will play with some special rules:
 
 Pig Out. If any of the dice outcomes is a 1, the current player's score for the turn is 1.
