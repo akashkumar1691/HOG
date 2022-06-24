@@ -13,6 +13,7 @@ To play against computer automated strategy, run in terminal:
 python3 hog_gui.py -f
 ```
 
+## Rules
 <p>To spice up the game, we will play with some special rules:</p>
 
 <ul>
